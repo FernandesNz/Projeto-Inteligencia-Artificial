@@ -23,8 +23,11 @@ onde ele deve analisar as informações passadas e designar de forma analítica 
 
 ## Dataset
 Wearable Sports Health Monitoring Dataset
+
 https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset
+
 Neste Dataset simula informações em tempo real coletadas através de dispositivos IOT, onde contém 500 registros com sinais vitais, tipo de atividade e localização.
+
 Principais Colunas [ID/Batimento Cardiaco/Temperatura Corporal/Oxigenação do Sangue/Passos/Atividade]
 
 
