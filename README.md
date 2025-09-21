@@ -22,10 +22,10 @@ Onde essas informações são muito delicadas e variam muito de atleta para atle
 onde ele deve analisar as informações passadas e designar de forma analítica se as sugestões da IA fazem sentido para o momento da partida ou não.
 
 ## Dataset
--Wearable Sports Health Monitoring Dataset
--https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset
--Neste Dataset simula informações em tempo real coletadas através de dispositivos IOT, onde contém 500 registros com sinais vitais, tipo de atividade e localização.
--Principais Colunas [ID/Batimento Cardiaco/Temperatura Corporal/Oxigenação do Sangue/Passos/Atividade]
+Wearable Sports Health Monitoring Dataset
+https://www.kaggle.com/datasets/ziya07/wearable-sports-health-monitoring-dataset
+Neste Dataset simula informações em tempo real coletadas através de dispositivos IOT, onde contém 500 registros com sinais vitais, tipo de atividade e localização.
+Principais Colunas [ID/Batimento Cardiaco/Temperatura Corporal/Oxigenação do Sangue/Passos/Atividade]
 
 
 
