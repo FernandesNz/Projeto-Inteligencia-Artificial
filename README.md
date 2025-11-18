@@ -30,6 +30,9 @@ Neste Dataset simula informações em tempo real coletadas através de dispositi
 
 Principais Colunas [ID/Batimento Cardiaco/Temperatura Corporal/Oxigenação do Sangue/Passos/Atividade]
 
+## Video Apresentação
+https://youtu.be/Xh8icdxvFRY
+
 
 
 
